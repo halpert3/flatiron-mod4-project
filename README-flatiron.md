@@ -35,7 +35,7 @@ Melting a dataset can be tricky if you've never done it before, so you'll see th
 Good luck!
 
 
-# Step 1: Load the Data/Filtering for Chosen Zipcodes
+# Step 1: Load the Data/Filtering for Chosen Zip codes
 
 # Step 2: Data Preprocessing
 
