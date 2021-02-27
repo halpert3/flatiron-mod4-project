@@ -1,0 +1,6 @@
+Name,Min. differencing for stationarity,Baseline ARMA,Baseline AIC,Best AUTOArima on train set,AIC,RMSE-last year of train set vs. model forecast for same period,RMSE-test set vs. forecast of train set one year
+Uptown (70115),1,"(1,1)",4391,"(0,2,0)",4210,23203.68,42103.65
+Lower Garden District (70130),2,,,,,,
+Audubon (70118),1,,,,,,
+Metairie (70005),2,,,,,,
+Aurora (70131),3,,,,,,
