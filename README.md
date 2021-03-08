@@ -76,4 +76,6 @@ Possible next steps were this project to continue:
 
 - Experiment with other types of time series modeling like Facebook Prophet to see if they yielded different results
 
+- Try fitting models with different ranges of training data to see if it improves results 
+
 - Investigate other zip codes for investment opportunities for this hypothetical client 
